@@ -1,7 +1,7 @@
 # Felix
 Mrrrp :3 meeeowwwwwww
 
-Programmer and linux nerd, beginner ricer. 
+Programmer and linux fan, beginner ricer.
 
 <!---
 Iqwit/Iqwit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
