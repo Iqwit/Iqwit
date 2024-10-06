@@ -9,4 +9,5 @@
  - JS
  - Shell scripting
 
-Average linux user meow
+Average linux user meow  
+This is all just a joke ofc if your an irl frfr
