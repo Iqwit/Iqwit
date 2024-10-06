@@ -1,6 +1,6 @@
 # Meeeee :3
 
-> !straight & furry
+> !straight & furry  
 > God's silliest soldier
 
 ## Languages:
