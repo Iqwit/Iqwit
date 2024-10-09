@@ -10,4 +10,4 @@
  - Shell scripting
 
 Average linux user meow  
-This is all just a joke ofc if your an irl frfr
+This is all just a joke ofc if your an irl frfr and im the straightest guy irl 💯
