@@ -1,8 +1,5 @@
 # Meeeee :3
 
-> !straight & furry  
-> God's silliest soldier
-
 ## Languages:
  - Rust - semi
  - Python
