@@ -1,4 +1,4 @@
-# Meeeee :3
+# Felix
 
 ## Languages:
  - Rust - semi
@@ -6,5 +6,4 @@
  - JS
  - Shell scripting
 
-Average linux user meow  
-This is all just a joke ofc if your an irl frfr and im the straightest guy irl 💯
+@felix.fursona.club on bsky
