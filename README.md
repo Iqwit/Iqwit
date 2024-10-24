@@ -6,4 +6,4 @@
  - JS
  - Shell scripting
 
-@felix.fursona.club on bsky
+@felix-furry.neocities.org on bsky
